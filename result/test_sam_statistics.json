@@ -1,9 +1,0 @@
-{
-  "total_detections": 128,
-  "successful_sam_masks": 128,
-  "fallback_boxes": 0,
-  "average_area_pixels": 1309.875,
-  "median_area_pixels": 1198.5,
-  "average_yolo_confidence": 0.4975207329262048,
-  "average_sam_score": 1.0448625299775314
-}
